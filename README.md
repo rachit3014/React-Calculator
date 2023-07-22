@@ -10,11 +10,12 @@ It is a simple calculator app which is made by using react.
                                           6.Equals
 
 
+![Screenshot (168)](https://github.com/rachit3014/React-Calculator/assets/84663169/79f4e05c-c415-4476-bee3-25bbf0148c34)
 
 
 
 
-# Deployed Link:
+# Deployed Link: "https://rachit3014.github.io/React-Calculator/"
 
 In the project directory, you can run:
 # `npm start` 
