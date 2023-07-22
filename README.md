@@ -1,5 +1,5 @@
 # Project Title -React Calculator
-It is a simple calculator app which is made by using react.
+It is a simple calculator app which is made by using React.
 
 # It has the following feature:-
                                           1.Add 
